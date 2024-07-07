@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Enviro_1","characterIndex":0,"characterName":"!$Enviro_Officer","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Enviro","traits":[],"initialLevel":1,"maxLevel":1,"name":"Arthur","nickname":"","note":"<type:actor>\n<id:1>","profile":""},
+{"id":2,"battlerName":"Enviro_3","characterIndex":2,"characterName":"!$Enviro_Shocker","classId":2,"equips":[2,0,0,0,0],"faceIndex":2,"faceName":"Enviro","traits":[],"initialLevel":1,"maxLevel":1,"name":"Peter","nickname":"","note":"<type:actor>\n<id:2>","profile":""},
+{"id":3,"battlerName":"Enviro_2","characterIndex":1,"characterName":"!$Enviro_Cop","classId":3,"equips":[3,0,0,0,0],"faceIndex":1,"faceName":"Enviro","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lucas","nickname":"","note":"<type:actor>\n<id:3>","profile":""},
+{"id":4,"battlerName":"Enviro_4","characterIndex":0,"characterName":"!$Enviro_Medic","classId":4,"equips":[4,0,0,0,0],"faceIndex":3,"faceName":"Enviro","traits":[],"initialLevel":1,"maxLevel":1,"name":"Maya","nickname":"","note":"<type:actor>\n<id:4>","profile":""}
+]
